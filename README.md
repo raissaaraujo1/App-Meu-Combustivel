@@ -36,4 +36,4 @@ Durante o desenvolvimento deste projeto foram aprendidos os seguintes conceitos:
 
 1. Clone o repositório:
 ```bash
-git clone...
+git clone https://github.com/raissaaraujo1/App-Meu-Combustivel.git
