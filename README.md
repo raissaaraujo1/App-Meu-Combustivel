@@ -1,5 +1,4 @@
 # AppMeuCombustivel
-# App Meu Combustível
 
 Aplicativo desenvolvido em .NET MAUI para calcular qual combustível compensa mais: Etanol ou Gasolina.
 
@@ -37,4 +36,4 @@ Durante o desenvolvimento deste projeto foram aprendidos os seguintes conceitos:
 
 1. Clone o repositório:
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone...
