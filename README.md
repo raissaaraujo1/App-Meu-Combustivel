@@ -37,3 +37,6 @@ Durante o desenvolvimento deste projeto foram aprendidos os seguintes conceitos:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/raissaaraujo1/App-Meu-Combustivel.git
+```
+2. Abra o projeto no Visual Studio 2026 ou Visual Studio Insiders.
+3. Compile e execute o projeto.
